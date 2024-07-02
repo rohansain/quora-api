@@ -7,5 +7,6 @@ h1{
 }
 
 .user{
+    text-transform: capitalize;
     font-style: italic;
 }
