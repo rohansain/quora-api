@@ -6,10 +6,6 @@ A REST API for a Quora-like website, built with Node.js and Express. This API su
 - [Features](#features)
 - [Technologies](#technologies)
 - [Setup](#setup)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Create a new post
