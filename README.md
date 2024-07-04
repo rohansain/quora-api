@@ -22,5 +22,7 @@ A REST API for a Quora-like website, built with Node.js and Express. This API su
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-username/quora-api.git
+   git clone https://github.com/rohansain/quora-api.git
    cd quora-api
+   npm i
+   node index.js
